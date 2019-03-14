@@ -131,15 +131,3 @@ def temp_range(start,end):
     
 if __name__ == '__main__':
     app.run(debug=True)
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
